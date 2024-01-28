@@ -43,5 +43,5 @@
 
 # Result:
 - Achieved an accuracy of [0.27466] on the test set.
-- Achieved a Mean Squared Error of [7643.44].
+- Achieved a R-squared value  [0.33].
 
